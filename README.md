@@ -1,119 +1,60 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Adithian%20PS&fontSize=70&fontAlignY=35&desc=aka%204die%20|%20Software%20Developer&descAlignY=55&descAlign=50" alt="Animated Header" />
+</div>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Adithian PS
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=E4405F&center=true&vCenter=true&width=500&lines=Writing+clean,+efficient+code;Building+systems+that+scale;Fixing+bugs+by+creating+new+ones" alt="Typing SVG" />
+</div>
 
-### aka **4die**
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=4die&fontSize=80&fontAlignY=35&desc=Build%20|%20Break%20|%20Repeat&descAlignY=60&fontColor=ffffff" />
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I+build+things+that+shouldn't+work;Sometimes+they+do;Sometimes+they+become+projects" />
-
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/adithianps04">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin&style=for-the-badge">
+  </a>
+  <a href="https://instagram.com/_4di_e_">
+    <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?logo=instagram&style=for-the-badge">
   </a>
   <a href="mailto:psadithian10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Send-%23D14836?logo=gmail&style=for-the-badge">
   </a>
 </p>
 
-</div>
-
 ---
 
-<div align="center">
-
-```diff
-+ STATUS: ACTIVE
-! BUILDING: SOMETHING
-- BUGS: FEATURE
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=the4die&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="150" src="https://streak-stats.demolab.com/?user=the4die&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🧠 core
-
-```bash
-build > talk
-ship  > perfect
-learn > plan
-```
-
----
-
-<details>
-<summary>⚡ open terminal</summary>
-
-```bash
-> whoami
-4die
-
-> state
-building random things
-
-> next
-make it real
-```
-
-</details>
-
----
-
-<details>
-<summary>🎮 hidden</summary>
+### ⚡ System Status
 
 ```text
-you clicked.
+USER: 4die
+STATUS: Active
+BUGS: 99+
+MOTIVATION: Compiling...
 
-most don't.
+Building useful things : [██████████..........] 50%
+Overengineering it     : [██████████████......] 70%
+Doing it anyway        : [████████████████████] 100%
 ```
 
-</details>
+---
+
+### 👾 Currently Cooking
+
+* `>>` **Local experiments:** Building small, slightly chaotic systems.
+* `>>` **Random tools:** Writing scripts that accidentally turn into real projects.
+* `>>` **Game mechanics:** Prototyping interactive features.
 
 ---
 
-<details>
-<summary>⚙️ stack</summary>
+### ⚙️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,sqlite,git,js" />
-</div>
-
-</details>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the4die&theme=tokyo-night&hide_border=true" />
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,sqlite,git" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-
-```text
-if you're still here, you're not average.
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" />
-
+  <img src="https://komarev.com/ghpvc/?username=the4die&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
 </div>
