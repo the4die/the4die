@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Adithian PS
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35"> Adithian PS
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Adithian%20PS&fontSize=70&fontAlignY=35&desc=aka%204die%20|%20Software%20Developer&descAlignY=55&descAlign=50" alt="Animated Header" />
@@ -24,7 +24,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/High%20Voltage.png" width="35"> System Status
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="35"> System Status
 
 ```text
 USER: 4die
@@ -39,15 +39,15 @@ Doing it anyway        : [██████████████████
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="35"> Currently Cooking
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" width="35"> Currently Cooking
 
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fire.png" width="20"> **Local experiments:** Building small, slightly chaotic systems.
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fire.png" width="20"> **Random tools:** Writing scripts that accidentally turn into real projects.
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fire.png" width="20"> **Game mechanics:** Prototyping interactive features.
+* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="20"> **Local experiments:** Building small, slightly chaotic systems.
+* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="20"> **Random tools:** Writing scripts that accidentally turn into real projects.
+* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="20"> **Game mechanics:** Prototyping interactive features.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gears.png" width="35"> Tech Stack
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="35"> Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
