@@ -8,13 +8,17 @@
 
 <br>
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithianps04)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_4di_e_)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psadithian10@gmail.com)
-</div>
-
-<br>
+<p align="center">
+  <a href="https://linkedin.com/in/adithianps04">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge">
+  </a>
+  <a href="https://instagram.com/_4di_e_">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&style=for-the-badge">
+  </a>
+  <a href="mailto:psadithian10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-red?logo=gmail&style=for-the-badge">
+  </a>
+</p>
 
 <details>
   <summary>🕹️ <b>Click here for a secret</b></summary>
@@ -25,47 +29,58 @@
 
 ---
 
-### 🚀 Professional Focus
+### 💻 System Status
 
-I am currently organizing my public GitHub workspace. My focus is on writing robust, production-ready code and building systems that solve real problems. 
+```text
+Brain: Active  
+Bugs: Present  
+Motivation: Depends  
+Progress: Ongoing...
 
-- 🔭 **Focusing on:** Clean architecture and backend development.
-- 🌱 **Currently refining:** My tech stack and version control workflows.
-- ⚡ **Goal:** To build a portfolio of high-quality, open-source contributions.
-
----
-
-### 💻 Core Technologies
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+[██████████░░░░░░░░] 50% Building something useful  
+[██████████████░░░] 70% Overengineering it  
+[████████████████] 100% Still doing it anyway
+```
 
 ---
 
-### 🏆 Gamified Developer Stats 
+### 🚧 Currently Building
 
-*(These will automatically level up like an RPG as you start pushing code to GitHub!)*
+- ⚡ Local experiments & small systems
+- 🧪 Random tools that turn into real projects
+- 🎮 Game / interactive mechanics 
+
+---
+
+### 🧰 Tech I Actually Use
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,sqlite,git" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+### 🏆 Developer Stats 
+
+*(Starting at Level 1 — check back as I push more code!)*
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=the4die&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=the4die&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </div>
 
 <br>
 
 <div align="center">
   <p><strong>Profile Visitors</strong></p>
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/the4die/count.svg" alt="Visitor Count" />
 </div>
