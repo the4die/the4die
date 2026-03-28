@@ -1,58 +1,51 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Adithian%20PS&fontSize=70&fontAlignY=35&desc=aka%204die%20|%20Fixing%20bugs%20by%20creating%20new%20ones&descAlignY=55&descAlign=50" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Adithian%20PS&fontSize=70&fontAlignY=35&desc=aka%204die%20|%20Software%20Developer&descAlignY=55&descAlign=50" alt="Animated Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=E4405F&center=true&vCenter=true&width=500&lines=Turning+coffee+into+code;Professional+overthinker;Breaking+things+since+2004" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=E4405F&center=true&vCenter=true&width=500&lines=Writing+clean,+efficient+code;Building+systems+that+scale;Fixing+bugs+by+creating+new+ones" alt="Typing SVG" />
 </div>
 
 <br>
 
 <p align="center">
   <a href="https://linkedin.com/in/adithianps04">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin&style=for-the-badge">
   </a>
   <a href="https://instagram.com/_4di_e_">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?logo=instagram&style=for-the-badge">
   </a>
   <a href="mailto:psadithian10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send-red?logo=gmail&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Email-Send-%23D14836?logo=gmail&style=for-the-badge">
   </a>
 </p>
 
-<details>
-  <summary>🕹️ <b>Click here for a secret</b></summary>
-  <blockquote>
-    <p>Congrats, you found the Easter egg! 🥚 If you're looking at my code and wondering why it broke for no reason... me too, man. Let's debug it together.</p>
-  </blockquote>
-</details>
-
 ---
 
-### 💻 System Status
+### ⚡ System Status
 
 ```text
-Brain: Active  
-Bugs: Present  
-Motivation: Depends  
-Progress: Ongoing...
+USER: 4die
+STATUS: Active
+BUGS: 99+
+MOTIVATION: Compiling...
 
-[█████████░░░░░░░░░] 50% Building something useful
-[█████████████░░░░░] 70% Overengineering it
-[██████████████████] 100% Still doing it anyway
+Building useful things : [██████████..........] 50%
+Overengineering it     : [██████████████......] 70%
+Doing it anyway        : [████████████████████] 100%
 ```
 
 ---
 
-### 🚧 Currently Cooking
+### 👾 Currently Cooking
 
-- ⚡ **Local experiments** & slightly chaotic small systems
-- 🧪 **Random tools** that accidentally turn into real projects
-- 🎮 **Game mechanics** / interactive features just for fun
+* `>>` **Local experiments:** Building small, slightly chaotic systems.
+* `>>` **Random tools:** Writing scripts that accidentally turn into real projects.
+* `>>` **Game mechanics:** Prototyping interactive features.
 
 ---
 
-### 🧰 Tech I Actually Use
+### ⚙️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -62,23 +55,6 @@ Progress: Ongoing...
 
 ---
 
-### 🎲 Daily Dev Joke
-
-*(Because my code is already a joke sometimes)*
-
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="250" alt="Anime Coding GIF" />
-</div>
-
-<br>
-
-<div align="center">
-  <p><strong>People who survived my code:</strong></p>
-  <img src="https://profile-counter.glitch.me/the4die/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=the4die&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
 </div>
